@@ -1,2 +1,1 @@
-# hello-world
-Practicing making a repository.
+Hi my name is Natalia!
